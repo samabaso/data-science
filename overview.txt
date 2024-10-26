@@ -1,0 +1,5 @@
+Field Dimensions: A typical soccer pitch is 105 meters long and 68 meters wide, with all dimensions proportional to real-world values.
+patches.Rectangle: Used to create rectangular shapes for the penalty areas, goal areas, and the overall pitch.
+plt.Circle: Used to create circular shapes like the center circle and penalty spots.
+plt.Arc: Used to create arcs for the corner areas.
+plt.Line2D: Used for the center line.
